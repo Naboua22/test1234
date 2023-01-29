@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpbDataSourceConfig">
+    <data-source-infos>
+      <data-source-info id="" persistence-unit-name="Default" />
+      <data-source-info id="c248135f-25c1-4237-a55b-c8ff10e8cc37" persistence-unit-name="medicineUnit" />
+      <data-source-info id="c248135f-25c1-4237-a55b-c8ff10e8cc37" persistence-unit-name="patientUnit" />
+    </data-source-infos>
+  </component>
+</project>
